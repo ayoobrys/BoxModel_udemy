@@ -1,0 +1,11 @@
+section {
+    background-color: maroon;
+    width: 800px;
+    height: 800px;
+}
+
+div {
+    background-color: lime;
+    width: 50%;
+    height: 50%;
+}
